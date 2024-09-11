@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Welcome to Akila's file
+=======
+Hi,this is Nipo
+>>>>>>> Nipo
